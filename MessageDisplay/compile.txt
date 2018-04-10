@@ -1,0 +1,3 @@
+TCP Print Line:
+Ter1	./sockmsg
+Ter2	telnet localhost 10000
