@@ -1,0 +1,3 @@
+UDP Sentence
+Ter1	./server
+Ter2	./client 10000
