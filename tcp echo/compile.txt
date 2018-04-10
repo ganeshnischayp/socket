@@ -1,0 +1,9 @@
+TCP ECHO:
+
+ONLY SERVER:
+	Ter1-	./server 10000
+	Ter2-	telnet localhost 10000
+USING BOTH:
+	Ter1-	./server 10000
+	Ter2-	./client 127.0.0.1 10000
+		
